@@ -1,5 +1,5 @@
 #!/bin/bash
-FROM espci-gm/monal:latest
+FROM espcigm/monal:latest
 MAINTAINER Jean-Luc PLOIX
 
 RUN apt-get update \
